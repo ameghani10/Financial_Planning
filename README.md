@@ -36,10 +36,49 @@ And the following resource:
 
 ## Running the Program
 
-Step 1
+**Step 1**
 
 - Input the current amount of BTC and ETH
-![Current_BTC_ETH]
+![Current_BTC_ETH](Images/Current_BTC_ETH.png)
+
+- This will give the current value of cryptocurrency assets
+
+**Step 2**
+
+- Input amount of shares held for SPY and AGG
+![Current_SPY_AGG](Images/Current_SPY_AGG.png)
+
+- Input todays date where indicated by comments in the code
+![Todays_date](Images/Todays_date.png)
+
+- This will give the current value of shares held
+
+**Step 3**
+
+- Input the monthly household income
+![Household_income](Images/Household_income.png)
+
+- This will generate a pie chart of savings
+![Pie_chart](Images/Pie_chart.png)
+
+**Step 4**
+
+- Input the start and end dates for the Monte Carlo Simulation as indicated by comment in the code
+![Start_end_dates](Images/Start_end_date.png)
+
+- This will return some graphs and a range of how much an initial investment of $20,000 will be worth in 30 years. The initial investment can be adjusted here!
+![Projection_30](Images/Projection_30.png)
+
+**Step 5** **_Optional_**
+
+- Here the initial investment and the weight of stocks and bonds in the portfolio to see their impact on future projections. Editable variables are:
+
+    - Initial Investment
+    - Weights
+    - Number of Trading Days (252 * 'x' in years)
+
+![Optional](Images/Optional.png)
+![Optional_2](Images/Optional_2.png)
 
 ---
 

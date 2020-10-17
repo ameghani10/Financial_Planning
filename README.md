@@ -82,6 +82,33 @@ And the following resource:
 
 ---
 
+## Contributors
+
+- Asif Meghani
+
+Looking to contribute?
+Contact me!
+
+---
+
+## Acknowledgements
+
+MCForecastTools.py file has been provided by Rice University Trilogy Education Services
+
+---
+
+## Contact Me
+
+linkedin - www.linkedin.com/in/asif-meghani-26a2a719
+
+---
+
+## License
+
+MIT License
+
+---
+
 ## Sources
 
 1 Financial_Planning - https://lawrencefinancialplanning.com/blog/seven-ways-your-financial-advisor-should-be-helping-you-protect-your-estate-plan
